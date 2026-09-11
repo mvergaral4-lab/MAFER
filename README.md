@@ -1,5 +1,4 @@
 # UTEQ Smart Parking: vehículos y propietarios
-<img width="1592" height="797" alt="image" src="https://github.com/user-attachments/assets/ae63f317-7b6b-4b17-b2c4-62b0967946eb" />
 
 <img src="public/captura.png">
 Panel administrativo desarrollado con React, Vite y CoreUI para consultar y visualizar los vehículos autorizados del sistema UTEQ Smart Parking. La información se obtiene directamente desde Supabase.
